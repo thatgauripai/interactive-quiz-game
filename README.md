@@ -56,7 +56,10 @@ This project is an **Arduino-powered multiple-choice quiz game** designed to enh
 ### **Software Setup**  
 - Install the Arduino IDE on your computer.  
 - Upload the provided C code to the Arduino board.  
-- Power on the system and start playing.  
+- Power on the system and start playing.
+
+  ## **Demo**
+  ![Quiz Game Screenshot](https://github.com/thatgauripai/interactive-quiz-game/blob/main/game.png)
 
 ## **Customization**  
 - **Modify Questions**: Edit the `quiz` array in the code to add new questions.  
