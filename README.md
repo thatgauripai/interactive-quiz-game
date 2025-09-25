@@ -14,8 +14,8 @@ This project is an **Arduino-powered multiple-choice quiz game** designed to enh
 - **LCD Display** – Shows quiz questions and answer options.  
 - **Four Push Buttons** – Players select answers using dedicated buttons (A, B, C, D).  
 - **LED and Buzzer Indicators** –  
-  - Green LED and short beep for correct answers  
-  - Red LED and long beep for incorrect answers  
+  - Green LED and short beep for correct answers.  
+  - Red LED and long beep for incorrect answers.  
 - **Score Tracking** – The game keeps track of correct answers and displays the final score at the end.  
 - **Looping Mechanism** – Automatically moves to the next question and restarts after the quiz ends.  
 
